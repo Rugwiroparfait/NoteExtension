@@ -4,7 +4,7 @@ Quick Notes is a lightweight Chrome extension that allows users to take notes wh
 
 ---
 
-## Features ✏️
+## Features 
 
 - **Popup Note-Taking**: Quickly open a popup to write and save notes.
 - **Persistent Storage**: Notes are saved locally in the browser and remain available after closing Chrome.
@@ -107,7 +107,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Icon Attribution
 
-The icons used in this project are sourced from [Flaticon](https://www.flaticon.com). Please ensure compliance with Flaticon's licensing terms when reusing or distributing these assets.
+The icons used in this project are sourced from [Flaticon](https://www.flaticon.com/free-icons/education). Please ensure compliance with Flaticon's licensing terms when reusing or distributing these assets.
 
 ---
 
