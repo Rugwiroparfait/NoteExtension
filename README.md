@@ -1,10 +1,10 @@
-# Quick Notes Chrome Extension
+# Quick Notes Chrome Extension 🗒️
 
 Quick Notes is a lightweight Chrome extension that allows users to take notes while browsing any website. Whether you're conducting research, jotting down ideas, or saving snippets, Quick Notes makes it easy to stay organized without leaving your browser.
 
 ---
 
-## Features
+## Features ✏️
 
 - **Popup Note-Taking**: Quickly open a popup to write and save notes.
 - **Persistent Storage**: Notes are saved locally in the browser and remain available after closing Chrome.
@@ -102,6 +102,12 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature-name`
 5. Open a pull request.
+
+---
+
+## Icon Attribution
+
+The icons used in this project are sourced from [Flaticon](https://www.flaticon.com). Please ensure compliance with Flaticon's licensing terms when reusing or distributing these assets.
 
 ---
 
